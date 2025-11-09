@@ -87,11 +87,11 @@ Open the Query Tool for your `demo_db` in pgAdmin and run the following SQL comm
 INSERT INTO product (id, name, description, price, stock_quantity, image_url)
 VALUES (
     1, 
-    'The Chronos SmartWatch', 
+    'SmartWatch', 
     'The ultimate wearable for modern professionals. Features all-day battery life, heart-rate monitoring, and seamless connection to all major devices.', 
     149.99, 
     100, 
-    'http://googleusercontent.com/image_collection/image_retrieva/11433173323137310151_0'
+    'http://googleusercontent.com/image_collection/image_retrieva/11433173323137310151_0](https://mannaihome.com/cdn/shop/files/AIWROrbit_IDWhite_Background_45_View_black_031c22e1-3107-4870-bf17-6e8a24ac61b9.png?v=1752733415&width=1500'
 );
 ```
 
